@@ -1,0 +1,16 @@
+missing module named resource - imported by posix, D:\Python practice\desktop application\frontend.py
+missing module named posix - imported by os, D:\Python practice\desktop application\frontend.py
+missing module named _posixsubprocess - imported by subprocess, D:\Python practice\desktop application\frontend.py
+missing module named 'org.python' - imported by pickle, D:\Python practice\desktop application\frontend.py, xml.sax
+missing module named readline - imported by cmd, code, pdb, D:\Python practice\desktop application\frontend.py
+excluded module named _frozen_importlib - imported by importlib, D:\Python practice\desktop application\frontend.py
+missing module named _scproxy - imported by urllib.request
+missing module named java - imported by platform, D:\Python practice\desktop application\frontend.py
+missing module named 'java.lang' - imported by platform, D:\Python practice\desktop application\frontend.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, D:\Python practice\desktop application\frontend.py
+missing module named termios - imported by tty, D:\Python practice\desktop application\frontend.py, getpass
+missing module named _dummy_threading - imported by dummy_threading, D:\Python practice\desktop application\frontend.py
+missing module named grp - imported by tarfile, shutil, D:\Python practice\desktop application\frontend.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, D:\Python practice\desktop application\frontend.py, getpass
+missing module named ce - imported by os, D:\Python practice\desktop application\frontend.py
+missing module named org - imported by copy, D:\Python practice\desktop application\frontend.py
